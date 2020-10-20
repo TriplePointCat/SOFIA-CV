@@ -49,7 +49,6 @@ Using the program
     14. When you press one of the buttons the lower image will update showing the data you have selected so far. Yellow will show the lower boundary and magenta will show the upper boundary. When contours are selected through a non-bulk method an undo button will be added. Pressing the undo button will remove the most recently added data.
     15. When you have added data to define the upper and lower boundaries a button to exit the menu labeled “Close and Continue” will be created. When you have added all of the contours that you want you can press that button to continue the process. (Note: If you are using multiple thresholds repeat steps 12-14 until satisfied)
     16. Press the “Close” button on the page that lists thresholds to continue
-
     17. On the main menu a new button will be available labeled “Save CSVs”. Press this button to automatically save all the contour data you selected. If you press the button and a text box is created to the right of the button saying ENTER SCALE RATIO refer to Using ImageJ in the following section 
     18. When data has finished saving all of the buttons besides the image selection button will be removed and an option to “Calculate Shortest Distance” will be created
     19. You can repeat steps 1-17 as many times as you would like before pressing “Calculate Shortest Distance”. When you press that button it will perform calculations on the CSVs you have created. The calculations will have finished when the “Calculate Shortest Distance” button disappears. 
