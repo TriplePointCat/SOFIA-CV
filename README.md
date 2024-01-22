@@ -1,1 +1,1 @@
-Created by Padraig Stack and designed at Oak Ridge National Lab for the use of quantifying oxidation features in cross section images. Please see the releases on the side. Experimental should work and has more features, stable might work.
+Created by Pádraigín Stack and designed at Oak Ridge National Lab for the use of quantifying oxidation features in cross section images. Please see the releases on the side. Experimental should work and has more features, stable might work.
